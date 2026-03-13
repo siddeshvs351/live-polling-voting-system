@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+
+# SSL certificates and keys
+*.key
+*.pem
+*.crt
+
+# Temporary files
+*.tmp
